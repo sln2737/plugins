@@ -1,0 +1,4 @@
+interface:
+  default_prompt: Upload the dataset
+  display_name: Panini
+  short_description: The Data melody

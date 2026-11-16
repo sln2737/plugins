@@ -1,0 +1,26 @@
+{
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Education & Research",
+    "composerIcon": "./assets/gpt-icon.png",
+    "defaultPrompt": [
+      "Share the web page ",
+      "Share the whole website to audit iteratively"
+    ],
+    "developerName": "Lakshminarasimhan S",
+    "displayName": "Arjuna",
+    "logo": "./assets/gpt-icon.png",
+    "longDescription": "Arjuna is famous for his arrow, once shot, it will hit the target.  Arjuna GPT is to shoot the arrow on any website and kill the enemy to SEO optimisation.",
+    "shortDescription": "Arjuna is famous for his arrow, once shot, it will hit the target.  Arjuna GPT is to shoot the arrow on any website and kill the enemy to SEO optimisation."
+  },
+  "name": "gpt-ef14da2439ed26976a3774549c94947f",
+  "version": "0.3.1+bundle.2c26d5f1c740a4ae9b9af88c3ef1472a",
+  "description": "Arjuna is famous for his arrow, once shot, it will hit the target.  Arjuna GPT is to shoot the arrow on any website and kill the enemy to SEO optimisation.",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

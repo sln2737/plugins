@@ -1,0 +1,23 @@
+{
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Education & Research",
+    "defaultPrompt": [
+      "Upload the dataset"
+    ],
+    "developerName": "Lakshminarasimhan S",
+    "displayName": "Panini",
+    "longDescription": "The Data melody",
+    "shortDescription": "The Data melody"
+  },
+  "name": "gpt-f4f33275c17d3f8481291079ecdac0ff",
+  "version": "0.1.2",
+  "description": "The Data melody",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

@@ -1,0 +1,5 @@
+interface:
+  default_prompt: Help me with examples of business Idea that I may wish to transform
+    into action.
+  display_name: Vishwa Karma
+  short_description: 'Vishwa Karma is the origin of all Karma. Strategy is the origin '

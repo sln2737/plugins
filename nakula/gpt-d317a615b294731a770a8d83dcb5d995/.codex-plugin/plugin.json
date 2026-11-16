@@ -1,0 +1,26 @@
+{
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Creativity",
+    "composerIcon": "./assets/gpt-icon.png",
+    "defaultPrompt": [
+      "Lets create cool visuals, Required inputs: Image Description, Heading Font, Subheading Font, Paragraph Font, Accent Colour Theme, Background Type, Canvas Size, Aspect Ratio",
+      "Describe the Image,  awaiting for your inputs: Image Description, Heading Font, Subheading Font, Paragraph Font, Accent Colour Theme, Background Type, Canvas Size, Aspect Ratio"
+    ],
+    "developerName": "Lakshminarasimhan S",
+    "displayName": "Nakula",
+    "logo": "./assets/gpt-icon.png",
+    "longDescription": "Nakula is a great artist.  Nakula GPT can create amazing corporate vector graphics.",
+    "shortDescription": "Nakula is a great artist.  Nakula GPT can create amazing corporate vector graphics."
+  },
+  "name": "gpt-d317a615b294731a770a8d83dcb5d995",
+  "version": "0.5.1+bundle.3d534b2d9c5cf6a788cb94b55b2836b9",
+  "description": "Nakula is a great artist.  Nakula GPT can create amazing corporate vector graphics.",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

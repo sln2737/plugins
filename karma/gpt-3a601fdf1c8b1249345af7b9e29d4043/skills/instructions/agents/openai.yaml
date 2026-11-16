@@ -1,0 +1,5 @@
+interface:
+  default_prompt: Let me Generate a beautiful Infographic CV. Upload the PDF or Paste
+    the Text
+  display_name: Karma
+  short_description: Karma is a Infographic  CV Generator

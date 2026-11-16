@@ -1,0 +1,6 @@
+interface:
+  default_prompt: Let me upload the dataset or describe the need for the synthetic
+    dataset for constrained learning.
+  display_name: Drona
+  short_description: Dronacharya is the one who is guru of Arjuna, the warrior.  He
+    s

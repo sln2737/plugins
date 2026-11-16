@@ -1,0 +1,25 @@
+{
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Education & Research",
+    "composerIcon": "./assets/gpt-icon.png",
+    "defaultPrompt": [
+      " Sanjaya Uvacca (Sanskrit for \u201cSanjaya said...\u201d \u2014 a nod to the wise narrator and coach from the Mahabharata.)"
+    ],
+    "developerName": "Lakshminarasimhan S",
+    "displayName": "Sanjaya Uvacca",
+    "logo": "./assets/gpt-icon.png",
+    "longDescription": "Sanjaya who streams the Gurushektra to a Blind fellow.",
+    "shortDescription": "Sanjaya who streams the Gurushektra to a Blind fellow."
+  },
+  "name": "gpt-483c583746bd556469e92c3edb81d43a",
+  "version": "0.6.3",
+  "description": "Sanjaya who streams the Gurushektra to a Blind fellow.",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

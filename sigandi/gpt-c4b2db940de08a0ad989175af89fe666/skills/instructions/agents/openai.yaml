@@ -1,0 +1,4 @@
+interface:
+  default_prompt: Upload an image.
+  display_name: Sigandi
+  short_description: A hair specialist

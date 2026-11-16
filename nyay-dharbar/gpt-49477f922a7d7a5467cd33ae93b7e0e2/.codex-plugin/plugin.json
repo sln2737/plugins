@@ -1,0 +1,26 @@
+{
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Other",
+    "composerIcon": "./assets/gpt-icon.webp",
+    "defaultPrompt": [
+      "Initate the debate saying **\u201cProceed with Case \u201d** ",
+      "Then copy paste the case text or upload a PDF File."
+    ],
+    "developerName": "Lakshminarasimhan S",
+    "displayName": "Nyay Dharbar",
+    "logo": "./assets/gpt-icon.webp",
+    "longDescription": "Instructions for Nyay Dharbar.",
+    "shortDescription": "Instructions for Nyay Dharbar."
+  },
+  "name": "gpt-49477f922a7d7a5467cd33ae93b7e0e2",
+  "version": "0.2.1+bundle.adb0d21455d1465c95a9e60d5b81ca67",
+  "description": "Instructions for Nyay Dharbar.",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

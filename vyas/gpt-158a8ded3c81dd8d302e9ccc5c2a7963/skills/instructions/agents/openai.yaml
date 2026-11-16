@@ -1,0 +1,4 @@
+interface:
+  default_prompt: Lets draft a Scholarly OpEd.
+  display_name: Vyas
+  short_description: Scholarly OpEd for given topic

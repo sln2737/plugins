@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "description": "Dronacharya is the one who is guru of Arjuna, the warrior.  He symbolises the constrained learning.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "skills"
+        ],
+        "category": "Education & Research",
+        "composerIcon": "./assets/gpt-icon.png",
+        "defaultPrompt": [
+          "Let me upload the dataset or describe the need for the synthetic dataset for constrained learning."
+        ],
+        "developerName": "Lakshminarasimhan S",
+        "displayName": "Drona",
+        "logo": "./assets/gpt-icon.png",
+        "longDescription": "Dronacharya is the one who is guru of Arjuna, the warrior.  He symbolises the constrained learning.",
+        "shortDescription": "Dronacharya is the one who is guru of Arjuna, the warrior.  He symbolises the constrained learning."
+      }
+    }
+  },
+  "name": "gpt-83dac35d12cd67f7079b4389f10bfae0",
+  "version": "0.11.2"
+}

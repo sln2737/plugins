@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "description": "Strategy for the Successful Career",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "skills"
+        ],
+        "category": "Education & Research",
+        "composerIcon": "./assets/gpt-icon.png",
+        "defaultPrompt": [
+          "Upload your CV as PDF or Paste the CV as text"
+        ],
+        "developerName": "Lakshminarasimhan S",
+        "displayName": "Chakra Viugh",
+        "logo": "./assets/gpt-icon.png",
+        "longDescription": "Strategy for the Successful Career",
+        "shortDescription": "Strategy for the Successful Career"
+      }
+    }
+  },
+  "name": "gpt-1d22e7fc999582607e692be886436763",
+  "version": "0.4.1+bundle.252e42bc6571b89cc82227173e8e914b"
+}

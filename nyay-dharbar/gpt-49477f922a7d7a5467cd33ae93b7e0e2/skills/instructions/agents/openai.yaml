@@ -1,0 +1,4 @@
+interface:
+  default_prompt: 'Initate the debate saying **“Proceed with Case ”** '
+  display_name: Nyay Dharbar
+  short_description: Instructions for Nyay Dharbar.

@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "description": "Sanjaya who streams the Gurushektra to a Blind fellow.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "skills"
+        ],
+        "category": "Education & Research",
+        "composerIcon": "./assets/gpt-icon.png",
+        "defaultPrompt": [
+          " Sanjaya Uvacca (Sanskrit for “Sanjaya said...” — a nod to the wise narrator and coach from the Mahabharata.)"
+        ],
+        "developerName": "Lakshminarasimhan S",
+        "displayName": "Sanjaya Uvacca",
+        "logo": "./assets/gpt-icon.png",
+        "longDescription": "Sanjaya who streams the Gurushektra to a Blind fellow.",
+        "shortDescription": "Sanjaya who streams the Gurushektra to a Blind fellow."
+      }
+    }
+  },
+  "name": "gpt-483c583746bd556469e92c3edb81d43a",
+  "version": "0.6.3"
+}

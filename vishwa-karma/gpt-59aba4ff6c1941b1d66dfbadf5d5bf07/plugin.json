@@ -1,0 +1,30 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "description": "Vishwa Karma is the origin of all Karma. Strategy is the origin of every shristi.  Vishwa Karma is helping us to decompose Ideas into actionable items to all stake holders.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "skills"
+        ],
+        "category": "Education & Research",
+        "composerIcon": "./assets/gpt-icon.jpg",
+        "defaultPrompt": [
+          "Help me with examples of business Idea that I may wish to transform into action.",
+          "Let us implement \"Buy one Get One Pizza Offer in all self owned stores across Tier 2 Cities\".",
+          "How to make Elon's SpaeceX to send Human to Mars successfully?"
+        ],
+        "developerName": "Lakshminarasimhan S",
+        "displayName": "Vishwa Karma",
+        "logo": "./assets/gpt-icon.jpg",
+        "longDescription": "Vishwa Karma is the origin of all Karma. Strategy is the origin of every shristi.  Vishwa Karma is helping us to decompose Ideas into actionable items to all stake holders.",
+        "shortDescription": "Vishwa Karma is the origin of all Karma. Strategy is the origin of every shristi.  Vishwa Karma is helping us to decompose Ideas into actionable items to all stake holders."
+      }
+    }
+  },
+  "name": "gpt-59aba4ff6c1941b1d66dfbadf5d5bf07",
+  "version": "0.7.1+bundle.100e2432c9152808d5797d2509af7a72"
+}

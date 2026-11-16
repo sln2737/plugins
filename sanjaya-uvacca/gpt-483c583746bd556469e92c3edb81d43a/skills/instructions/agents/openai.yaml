@@ -1,0 +1,5 @@
+interface:
+  default_prompt: ' Sanjaya Uvacca (Sanskrit for “Sanjaya said...” — a nod to the
+    wise narrator and coach from the Mahabharata.)'
+  display_name: Sanjaya Uvacca
+  short_description: Sanjaya who streams the Gurushektra to a Blind fellow.

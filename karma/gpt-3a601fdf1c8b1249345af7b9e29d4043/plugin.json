@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "description": "Karma is a Infographic  CV Generator",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "skills"
+        ],
+        "category": "Creativity",
+        "composerIcon": "./assets/gpt-icon.png",
+        "defaultPrompt": [
+          "Let me Generate a beautiful Infographic CV. Upload the PDF or Paste the Text"
+        ],
+        "developerName": "Lakshminarasimhan S",
+        "displayName": "Karma",
+        "logo": "./assets/gpt-icon.png",
+        "longDescription": "Karma is a Infographic  CV Generator",
+        "shortDescription": "Karma is a Infographic  CV Generator"
+      }
+    }
+  },
+  "name": "gpt-3a601fdf1c8b1249345af7b9e29d4043",
+  "version": "0.1.1+bundle.19b1cafedc82a391c87755b9398897e3"
+}

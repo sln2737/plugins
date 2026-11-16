@@ -1,0 +1,23 @@
+{
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Creativity",
+    "defaultPrompt": [
+      "Lets draft a Scholarly OpEd."
+    ],
+    "developerName": "Lakshminarasimhan S",
+    "displayName": "Vyas",
+    "longDescription": "Scholarly OpEd for given topic",
+    "shortDescription": "Scholarly OpEd for given topic"
+  },
+  "name": "gpt-158a8ded3c81dd8d302e9ccc5c2a7963",
+  "version": "0.2.1+bundle.0b4c0372e468e788d061a71454cfe1f0",
+  "description": "Scholarly OpEd for given topic",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

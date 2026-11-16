@@ -1,0 +1,23 @@
+{
+  "name": "gpt-c4b2db940de08a0ad989175af89fe666",
+  "version": "0.1.1+bundle.35e8b4d9ca43c6f3f3c5614fab6bc201",
+  "description": "A hair specialist",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "skills": "./skills",
+  "keywords": [],
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Other",
+    "defaultPrompt": [
+      "Upload an image."
+    ],
+    "developerName": "Lakshminarasimhan S",
+    "displayName": "Sigandi",
+    "longDescription": "A hair specialist",
+    "shortDescription": "A hair specialist"
+  }
+}

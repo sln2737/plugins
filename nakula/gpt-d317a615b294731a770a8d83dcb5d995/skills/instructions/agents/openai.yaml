@@ -1,0 +1,6 @@
+interface:
+  default_prompt: 'Lets create cool visuals, Required inputs: Image Description, Heading
+    Font, Subheading Font, Paragraph Font, Accent Colour Theme, Background Type, Canvas
+    Size, Aspect Ratio'
+  display_name: Nakula
+  short_description: Nakula is a great artist.  Nakula GPT can create amazing corpora

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Lakshminarasimhan S"
+  },
+  "description": "Master AI Workflow Generator for any user given process.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "skills"
+        ],
+        "category": "Other",
+        "composerIcon": "./assets/gpt-icon.png",
+        "defaultPrompt": [],
+        "developerName": "Lakshminarasimhan S",
+        "displayName": "GadothKajan",
+        "logo": "./assets/gpt-icon.png",
+        "longDescription": "Master AI Workflow Generator for any user given process.",
+        "shortDescription": "Master AI Workflow Generator for any user given process."
+      }
+    }
+  },
+  "name": "gpt-14951a1f7199f464e05a3047f5505fb5",
+  "version": "0.5.1+bundle.5a2784f9fe79ed4bca7dda21f37e60d5"
+}

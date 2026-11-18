@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "email": "sln2737@gmail.com",
+    "name": "Lakshminarasimhan Santhanam"
+  },
+  "description": "Answer a question from one unexpected, evidence-grounded angle and close with a question or a practical test.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "category": "Productivity",
+        "composerIcon": "./assets/icon.png",
+        "defaultPrompt": "/off-axis Should I quit my job to build my startup?",
+        "developerName": "Lakshminarasimhan Santhanam",
+        "displayName": "Off-Axis",
+        "logo": "./assets/icon.png",
+        "shortDescription": "Find the overlooked angle"
+      }
+    }
+  },
+  "name": "off-axis",
+  "version": "1.0.0"
+}

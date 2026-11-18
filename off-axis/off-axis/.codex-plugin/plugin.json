@@ -1,0 +1,22 @@
+{
+  "interface": {
+    "category": "Productivity",
+    "composerIcon": "./assets/icon.png",
+    "defaultPrompt": "/off-axis Should I quit my job to build my startup?",
+    "developerName": "Lakshminarasimhan Santhanam",
+    "displayName": "Off-Axis",
+    "logo": "./assets/icon.png",
+    "shortDescription": "Find the overlooked angle",
+    "longDescription": "Answer a question from one unexpected, evidence-grounded angle and close with a question or a practical test.",
+    "capabilities": []
+  },
+  "name": "off-axis",
+  "version": "1.0.0",
+  "description": "Answer a question from one unexpected, evidence-grounded angle and close with a question or a practical test.",
+  "author": {
+    "name": "Lakshminarasimhan Santhanam",
+    "email": "sln2737@gmail.com"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

@@ -1,6 +1,6 @@
 # Plugins
 
-Source packages for 12 skills-based plugins by Lakshminarasimhan S. Each named folder contains the package directory matching its manifest identifier.
+Source packages for 13 skills-based plugins by Lakshminarasimhan S. Each named folder contains the package directory matching its manifest identifier.
 
 | Plugin | Version |
 | --- | --- |
@@ -11,6 +11,7 @@ Source packages for 12 skills-based plugins by Lakshminarasimhan S. Each named f
 | [Karma](./karma/gpt-3a601fdf1c8b1249345af7b9e29d4043/) | `0.1.1+bundle.19b1cafedc82a391c87755b9398897e3` |
 | [Nakula](./nakula/gpt-d317a615b294731a770a8d83dcb5d995/) | `0.5.1+bundle.3d534b2d9c5cf6a788cb94b55b2836b9` |
 | [Nyay Dharbar](./nyay-dharbar/gpt-49477f922a7d7a5467cd33ae93b7e0e2/) | `0.2.1+bundle.adb0d21455d1465c95a9e60d5b81ca67` |
+| [Off-Axis](./off-axis/off-axis/) | `1.0.0` |
 | [Panini](./panini/gpt-f4f33275c17d3f8481291079ecdac0ff/) | `0.1.2` |
 | [Sanjaya Uvacca](./sanjaya-uvacca/gpt-483c583746bd556469e92c3edb81d43a/) | `0.6.3` |
 | [Sigandi](./sigandi/gpt-c4b2db940de08a0ad989175af89fe666/) | `0.1.1+bundle.35e8b4d9ca43c6f3f3c5614fab6bc201` |
